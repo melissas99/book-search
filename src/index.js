@@ -80,12 +80,11 @@ async function searchBooks() {
     try {
         const category = app.inputSearch.value.toLowerCase();
         if (!category) return;
+        app.resultList.innerHTML = '';
         app.loader.style.display = 'block';
 
         const response = await fetch(`https://openlibrary.org/subjects/${category}.json`);
         const data = await response.json();
-
-        app.resultList.innerHTML = '';
 
         if (data.works.length == 0) {
             app.resultList.innerHTML = 'No result found';
