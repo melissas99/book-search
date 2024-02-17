@@ -1,0 +1,19 @@
+{
+  "name": "book-search-wp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "webpack serve",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "Melissa Spagnolo",
+  "license": "ISC",
+  "dependencies": {
+    "copy-webpack-plugin": "^12.0.2",
+    "webpack": "^5.90.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}

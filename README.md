@@ -42,12 +42,12 @@ Open Library API for providing access to book data
 
 ## Screenshots
 <p>
-<img src="./assets/img/Screenshot1.png" width="200">
-<img src="./assets/img/Screenshot2.png" width="200">
-<img src="./assets/img/Screenshot3.png" width="200">
+<img src="./screenshots/Screenshot1.png" width="200">
+<img src="./screenshots/Screenshot2.png" width="200">
+<img src="./screenshots/Screenshot3.png" width="200">
 </p>
 <p>
-<img src="./assets/img/Screenshot4.png" width="200">
-<img src="./assets/img/Screenshot5.png" width="200">
-<img src="./assets/img/Screenshot6.png" width="200">
+<img src="./screenshots/Screenshot4.png" width="200">
+<img src="./screenshots/Screenshot5.png" width="200">
+<img src="./screenshots/Screenshot6.png" width="200">
 </p>
